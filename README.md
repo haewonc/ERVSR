@@ -1,4 +1,4 @@
-# CS570 Team Project: ERVSR
+# WACV23: ERVSR
 ## Efficient Reference-based Video Super-Resolution (ERVSR)
 ### Framework Overview
 ![framework](images/overview.jpeg)
