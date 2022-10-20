@@ -1,0 +1,4 @@
+*.pytorch
+*.pth
+results/
+__pycache__
